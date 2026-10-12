@@ -1,0 +1,117 @@
+D:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe.config
+D:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe
+D:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.pdb
+D:\ird\StockTransferInterBranch\bin\Debug\CRDisplay.dll
+D:\ird\StockTransferInterBranch\bin\Debug\cstLng.dll
+D:\ird\StockTransferInterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\ird\StockTransferInterBranch\bin\Debug\Newtonsoft.Json.dll
+D:\ird\StockTransferInterBranch\bin\Debug\stdole.dll
+D:\ird\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.xml
+D:\ird\StockTransferInterBranch\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\ird\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\ird\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.Form1.resources
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CopyComplete
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.exe
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.pdb
+D:\ird\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe.config
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.pdb
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\CRDisplay.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\cstLng.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\Newtonsoft.Json.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\stdole.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.xml
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.Form1.resources
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CopyComplete
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.exe
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.pdb
+D:\Bibas\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\CRDisplay.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\cstLng.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\Newtonsoft.Json.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\stdole.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.Form1.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CopyComplete
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\CRDisplay.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\cstLng.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\Newtonsoft.Json.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\stdole.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.Form1.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CopyComplete
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.pdb
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe.config
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.pdb
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\CRDisplay.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\cstLng.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\stdole.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.Form1.resources
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferInterBranch.csproj.CopyComplete
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.exe
+C:\Users\sap.test\Desktop\InterBranch_Dairy\StockTransferInterBranch\obj\x64\Debug\StockTransferIterBranch.pdb

@@ -1,0 +1,7 @@
+Delivery Creation Error is:Internal error (-2010) occurred: For Customer Code : 303824354   :11/30/2021 3:52:58 PM
+Delivery Creation Error is:Internal error (-2010) occurred: For Customer Code : 303824354   :11/30/2021 4:50:50 PM
+Delivery Creation Error is:Internal error (-2010) occurred: For Customer Code : 303824354   :11/30/2021 4:52:54 PM
+Delivery Creation Error is:Internal error (-2010) occurred: For Customer Code : 303824354   :11/30/2021 4:55:06 PM
+Delivery Creation Error is:Internal error (-2010) occurred: For Customer Code : 303824354   :11/30/2021 5:01:35 PM
+Delivery Creation Error is:Internal error (-2010) occurred: For Customer Code : 303824354   :11/30/2021 5:05:04 PM
+Delivery Created Sucessfully,Delivery No:3833: For Customer Code : 303824354    :11/30/2021 5:51:34 PM

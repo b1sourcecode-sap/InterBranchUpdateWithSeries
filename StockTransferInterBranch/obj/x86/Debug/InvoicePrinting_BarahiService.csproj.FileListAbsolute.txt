@@ -1,0 +1,28 @@
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.csprojResolveAssemblyReference.cache
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.csproj.ResolveComReference.cache
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.DisplayReport.resources
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.ReportDisplay.resources
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.csproj.GenerateResource.Cache
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\CRDisplay.dll
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\cstLng.dll
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\Newtonsoft.Json.dll
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\InvoicePrinting_BarahiService.exe.config
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\InvoicePrinting_BarahiService.exe
+D:\IRD\InvoicePrinting_BarahiService\bin\Debug\InvoicePrinting_BarahiService.pdb
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.Form1.resources
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.exe
+D:\IRD\InvoicePrinting_BarahiService\obj\x86\Debug\InvoicePrinting_BarahiService.pdb
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\InvoicePrinting_BarahiService.exe.config
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_BarahiService.csproj.ResolveComReference.cache
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_BarahiService.exe
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_BarahiService.pdb

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+  <forms>
+    <action type="add">
+      <form appformnumber="-1" FormType="-1" type="4" BorderStyle="4" uid="Form_CstmrAgingRpt" title="Customer Aging Report" visible="1" default_button="Btn_Proc" pane="0" color="0" left="525" top="200" width="316" height="138" client_width="300" client_height="100" AutoManaged="1" SupportedModes="15" ObjectType="">
+        <datasources>
+          <dbdatasources>
+            <action type="add"/>
+            <datasource tablename ="OCRD"/>
+            <datasource tablename ="OCRG"/>
+          </dbdatasources>
+          <userdatasources>
+            <action type="add">
+              <datasource uid="bpFrm" type="9" size="50"/>
+              <datasource uid="bpTo" type="9" size="50"/>
+              <datasource uid="BpGroup" type="9" size="50"/>
+              <datasource uid="IntervalDays" type="9" size="10"/>
+            </action>
+          </userdatasources>
+        </datasources>
+        <Menus/>
+        <items>
+          <action type="add">
+            <item uid="stx_BP" type="8" left="5" tab_order="0" width="80" top="69" height="15" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="stx_BP_Frm" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+							<AutoManagedAttribute/>
+							<specific caption="CardCode"/>
+						</item>
+						<item uid="stx_BP_Frm" type="8" left="86" tab_order="0" width="35" top="69" height="15" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="cfl_BP_Frm" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+							<AutoManagedAttribute/>
+							<specific caption="From"/>
+						</item>
+            <item uid="cfl_BP_Frm" type="16" left="123" tab_order="0" width="80" top="69" height="15" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="stx_BP_To" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+              <AutoManagedAttribute/>
+              <specific TabOrder="0" ChooseFromListUID="CFL_1" ChooseFromListAlias="CardCode" ChooseFromListIsAutoFill="1" IsPassword="0">
+                <databind databound="1" table="OCRD" alias="bpFrm"/>
+              </specific>
+            </item>            
+						<item uid="stx_BP_To" type="8" left="210" tab_order="0" width="35" top="69" height="15" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="cfl_BP_To" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+							<AutoManagedAttribute/>
+							<specific caption="To"/>
+						</item>
+            <item uid="cfl_BP_To" type="16" left="246" tab_order="0" width="80" top="69" height="15" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+              <AutoManagedAttribute/>
+              <specific TabOrder="0" ChooseFromListUID="CFL_2" ChooseFromListAlias="CardCode" ChooseFromListIsAutoFill="1" IsPassword="0">
+                <databind databound="1" table="OCRD" alias="bpTo"/>
+              </specific>
+            </item>
+            <item uid="stx_BPGroup" type="8" left="5" tab_order="0" width="80" top="72" height="15" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="stx_BP_Frm" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+              <AutoManagedAttribute/>
+              <specific caption="CardCode"/>
+            </item>
+            <item uid="cmb_BPHead" type="113" left="123" tab_order="0" width="80" top="72" height="15" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+              <AutoManagedAttribute/>
+              <specific AffectsFormMode="1" TabOrder="0">
+                <ValidValues>
+                  <action type="add">
+                    <databind databound="1" table="" alias=""/>
+                  </action>
+                </ValidValues>
+                <databind databound="0" table="" alias=""/>
+              </specific>
+            </item>
+						<item uid="BtonProc" type="4" left="5" tab_order="0" width="65" top="96" height="19" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+							<AutoManagedAttribute/>
+							<specific caption="Process"/>
+						</item>
+						<item uid="2" type="4" left="71" tab_order="0" width="65" top="96" height="19" visible="1" enabled="1" from_pane="0" to_pane="0" disp_desc="0" right_just="0" description="" linkto="" forecolor="-1" backcolor="-1" text_style="0" font_size="-1" supp_zeros="0" AffectsFormMode="1">
+							<AutoManagedAttribute/>
+							<specific caption="Cancel"/>
+						</item>
+          </action>
+        </items>
+      </form>
+    </action>
+  </forms>
+</Application>

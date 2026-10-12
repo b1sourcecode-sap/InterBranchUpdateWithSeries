@@ -1,0 +1,1 @@
+Delivery Creation Error is:1470000341 - Fully allocate item "54584-A0000" to bin locations in warehouse "CSP": For Customer Code : 606650546   :11/29/2021 1:04:46 PM

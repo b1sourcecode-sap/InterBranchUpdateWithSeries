@@ -1,0 +1,12 @@
+
+<Application>
+	<Menus>
+		
+		<action type="add">
+		<!--<Menu Checked="0" Enabled="1" FatherUID="43525" String="Barcode Scanning" Type="1" position="9" UniqueID="BarCode" />-->
+    <Menu Checked="0" Enabled="1" FatherUID="43536" String="Customer Aging Report" Type="1" position="11" UniqueID="CustomerAgingRpt" />
+    <Menu Checked="0" Enabled="1" FatherUID="43536" String="Vendor Aging Report" Type="1" position="12" UniqueID="VendorAgingRpt" />
+    <Menu Checked="0" Enabled="1" FatherUID="1760" String="Item Aging Report" Type="1" position="23" UniqueID="ItemAgingRpt" />
+    </action>
+	</Menus>
+</Application> 

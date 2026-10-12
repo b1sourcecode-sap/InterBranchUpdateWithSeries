@@ -1,0 +1,39 @@
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.GenerateResource.Cache
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\DeliveryCreation\bin\Debug\CRDisplay.dll
+E:\ird\DeliveryCreation\bin\Debug\cstLng.dll
+E:\ird\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\DeliveryCreation\bin\Debug\Newtonsoft.Json.dll
+E:\ird\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+F:\NepalProject\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+F:\NepalProject\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\NepalProject\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+F:\NepalProject\DeliveryCreation\bin\Debug\CRDisplay.dll
+F:\NepalProject\DeliveryCreation\bin\Debug\cstLng.dll
+F:\NepalProject\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.Form1.resources
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.GenerateResource.Cache
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.pdb
+F:\NepalProject\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csprojResolveAssemblyReference.cache
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.pdb
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.Form1.resources
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csprojResolveAssemblyReference.cache

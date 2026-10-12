@@ -1,0 +1,103 @@
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe.config
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.pdb
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\CRDisplay.dll
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\cstLng.dll
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\Newtonsoft.Json.dll
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.ResolveComReference.cache
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.Form1.resources
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.GenerateResource.Cache
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.exe
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.pdb
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe.config
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.ResolveComReference.cache
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.exe
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.pdb
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.pdb
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\CRDisplay.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\cstLng.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\System.Net.Http.Formatting.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCodeBackup\InvoicePrinting_Sujal\bin\Debug\System.Net.Http.Formatting.xml
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csprojResolveAssemblyReference.cache
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.Form1.resources
+D:\SourceCodeBackup\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.GenerateResource.Cache
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe.config
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.ResolveComReference.cache
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.exe
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.pdb
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\CFL.xml
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\Menus.xml
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.pdb
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\CRDisplay.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\cstLng.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csprojResolveAssemblyReference.cache
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.Form1.resources
+C:\Users\manoj\Desktop\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.GenerateResource.Cache
+E:\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\InvoicePrinting_Sujal\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe.config
+E:\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.exe
+E:\InvoicePrinting_Sujal\bin\Debug\InvoicePrinting_Sujal.pdb
+E:\InvoicePrinting_Sujal\bin\Debug\CRDisplay.dll
+E:\InvoicePrinting_Sujal\bin\Debug\cstLng.dll
+E:\InvoicePrinting_Sujal\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\InvoicePrinting_Sujal\bin\Debug\System.Net.Http.Formatting.dll
+E:\InvoicePrinting_Sujal\bin\Debug\Newtonsoft.Json.dll
+E:\InvoicePrinting_Sujal\bin\Debug\System.Net.Http.Formatting.xml
+E:\InvoicePrinting_Sujal\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.ResolveComReference.cache
+E:\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+E:\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+E:\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.Form1.resources
+E:\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.csproj.GenerateResource.Cache
+E:\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.exe
+E:\InvoicePrinting_Sujal\obj\x86\Debug\InvoicePrinting_Sujal.pdb
+D:\SourceCodeBackup\IRDWork\InvoicePrinting_LiQuickService\bin\Debug\InvoicePrinting_Sujal.exe.config
+D:\SourceCodeBackup\IRDWork\InvoicePrinting_LiQuickService\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SourceCodeBackup\IRDWork\InvoicePrinting_LiQuickService\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SourceCodeBackup\IRDWork\InvoicePrinting_LiQuickService\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SourceCodeBackup\IRDWork\InvoicePrinting_LiQuickService\obj\x86\Debug\InvoicePrinting_Sujal.csproj.ResolveComReference.cache
+D:\SourceCodeBackup\IRDWork\InvoicePrinting_LiQuickService\obj\x86\Debug\InvoicePrinting_Sujal.exe
+D:\SourceCodeBackup\IRDWork\InvoicePrinting_LiQuickService\obj\x86\Debug\InvoicePrinting_Sujal.pdb
+D:\IRD\InvoicePrinting_LiQuickService\bin\Debug\InvoicePrinting_Sujal.exe.config
+D:\IRD\InvoicePrinting_LiQuickService\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\IRD\InvoicePrinting_LiQuickService\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\IRD\InvoicePrinting_LiQuickService\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\IRD\InvoicePrinting_LiQuickService\obj\x86\Debug\InvoicePrinting_Sujal.csproj.ResolveComReference.cache
+D:\IRD\InvoicePrinting_LiQuickService\obj\x86\Debug\InvoicePrinting_Sujal.exe
+D:\IRD\InvoicePrinting_LiQuickService\obj\x86\Debug\InvoicePrinting_Sujal.pdb
+D:\IRD\InvoicePrinting_LiQuickService\bin\Debug\InvoicePrinting_LIQuick.exe.config

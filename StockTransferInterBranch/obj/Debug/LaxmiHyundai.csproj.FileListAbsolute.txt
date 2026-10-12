@@ -1,0 +1,2 @@
+D:\LaxmiHyundai_Project\obj\Debug\LaxmiHyundai.csprojResolveAssemblyReference.cache
+D:\LaxmiHyundai_Project\obj\Debug\Interop.AccessibilityCplAdminLib.dll

@@ -1,0 +1,35 @@
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\InvoicePrinting_AutoHub.exe.config
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\InvoicePrinting_AutoHub.exe
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\InvoicePrinting_AutoHub.pdb
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\CRDisplay.dll
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\cstLng.dll
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\IRD\InvoicePrinting_AutoHub\bin\Debug\Newtonsoft.Json.dll
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.csproj.ResolveComReference.cache
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.DisplayReport.resources
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.ReportDisplay.resources
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.Form1.resources
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.csproj.GenerateResource.Cache
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.exe
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.pdb
+D:\IRD\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.csprojResolveAssemblyReference.cache
+E:\ird\InvoicePrinting_AutoHub\bin\Debug\InvoicePrinting_AutoHub.exe.config
+E:\ird\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\InvoicePrinting_AutoHub\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.csproj.ResolveComReference.cache
+E:\ird\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.exe
+E:\ird\InvoicePrinting_AutoHub\obj\x86\Debug\InvoicePrinting_AutoHub.pdb
+E:\ird\UDFCreation\bin\Debug\InvoicePrinting_AutoHub.exe.config
+E:\ird\UDFCreation\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\UDFCreation\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\UDFCreation\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\UDFCreation\obj\x86\Debug\InvoicePrinting_AutoHub.csproj.ResolveComReference.cache
+E:\ird\UDFCreation\obj\x86\Debug\InvoicePrinting_AutoHub.exe
+E:\ird\UDFCreation\obj\x86\Debug\InvoicePrinting_AutoHub.pdb

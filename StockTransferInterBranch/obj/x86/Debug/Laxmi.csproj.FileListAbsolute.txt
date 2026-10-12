@@ -1,0 +1,188 @@
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Laxmi.exe
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Laxmi.pdb
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\CRDisplay.dll
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\cstLng.dll
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\office.dll
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\office.xml
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Interop.SAPbobsCOM.dll
+D:\NEPAL\Sujal_SujalCustomization\bin\Debug\Interop.SAPbouiCOM.dll
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.DisplayReport.resources
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.ReportDisplay.resources
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.Form1.resources
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.GenerateResource.Cache
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+D:\NEPAL\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csprojResolveAssemblyReference.cache
+D:\Project FOlder\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+D:\Project FOlder\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Project FOlder\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project FOlder\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\Project FOlder\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+D:\Project FOlder\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+D:\Project FOlder\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+D:\SVNProjects\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+D:\SVNProjects\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SVNProjects\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SVNProjects\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SVNProjects\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+D:\SVNProjects\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+D:\SVNProjects\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+F:\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+F:\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+F:\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+F:\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.pdb
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\CRDisplay.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\cstLng.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\office.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\office.xml
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.SAPbobsCOM.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.SAPbouiCOM.dll
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csprojResolveAssemblyReference.cache
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.DisplayReport.resources
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.ReportDisplay.resources
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.Form1.resources
+D:\SVN_Code\NepalProject\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.GenerateResource.Cache
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.pdb
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\CRDisplay.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\cstLng.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\office.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\office.xml
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.SAPbobsCOM.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.SAPbouiCOM.dll
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csprojResolveAssemblyReference.cache
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.DisplayReport.resources
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.ReportDisplay.resources
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.Form1.resources
+F:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.GenerateResource.Cache
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.pdb
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\CRDisplay.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\cstLng.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\office.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\office.xml
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.SAPbobsCOM.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Interop.SAPbouiCOM.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.DisplayReport.resources
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.ReportDisplay.resources
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.Form1.resources
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.GenerateResource.Cache
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+D:\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.DisplayReport.resources
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.ReportDisplay.resources
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.Form1.resources
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\CFL.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Menus.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.pdb
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\CRDisplay.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\cstLng.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.exe
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.pdb
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\CFL.xml
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Menus.xml
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.pdb
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\CRDisplay.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\cstLng.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.DisplayReport.resources
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.ReportDisplay.resources
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.Form1.resources
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x86\Debug\Laxmi.csproj.GenerateResource.Cache
+F:\NepalProject\InvoicePrinting_Sujal\bin\Debug\Laxmi.exe.config
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Laxmi.csproj.ResolveComReference.cache
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Laxmi.exe
+F:\NepalProject\InvoicePrinting_Sujal\obj\x86\Debug\Laxmi.pdb

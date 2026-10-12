@@ -1,0 +1,49 @@
+F:\Bibas\UDFCreation\bin\Debug\UDFCreation.exe.config
+F:\Bibas\UDFCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\Bibas\UDFCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+F:\Bibas\UDFCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+F:\Bibas\UDFCreation\obj\x64\Debug\UDFCreation.csproj.ResolveComReference.cache
+F:\Bibas\UDFCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\Bibas\UDFCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\Bibas\UDFCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\Bibas\UDFCreation\bin\Debug\UDFCreation.exe
+F:\Bibas\UDFCreation\bin\Debug\UDFCreation.pdb
+F:\Bibas\UDFCreation\bin\Debug\CRDisplay.dll
+F:\Bibas\UDFCreation\bin\Debug\cstLng.dll
+F:\Bibas\UDFCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Bibas\UDFCreation\bin\Debug\System.Net.Http.Formatting.dll
+F:\Bibas\UDFCreation\bin\Debug\Newtonsoft.Json.dll
+F:\Bibas\UDFCreation\bin\Debug\System.Net.Http.Formatting.xml
+F:\Bibas\UDFCreation\obj\x64\Debug\UDFCreation.csprojResolveAssemblyReference.cache
+F:\Bibas\UDFCreation\obj\x64\Debug\UDFCreation.Form1.resources
+F:\Bibas\UDFCreation\obj\x64\Debug\UDFCreation.csproj.GenerateResource.Cache
+F:\Bibas\UDFCreation\obj\x64\Debug\UDFCreation.exe
+F:\Bibas\UDFCreation\obj\x64\Debug\UDFCreation.pdb
+E:\ird\UDFCreation\bin\Debug\UDFCreation.exe.config
+E:\ird\UDFCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\UDFCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\ird\UDFCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\ird\UDFCreation\obj\x64\Debug\UDFCreation.csproj.ResolveComReference.cache
+E:\ird\UDFCreation\obj\x64\Debug\UDFCreation.exe
+E:\ird\UDFCreation\obj\x64\Debug\UDFCreation.pdb
+E:\ird\UDFCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\UDFCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\UDFCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\UDFCreation\bin\Debug\UDFCreation.exe
+E:\ird\UDFCreation\bin\Debug\UDFCreation.pdb
+E:\ird\UDFCreation\bin\Debug\CRDisplay.dll
+E:\ird\UDFCreation\bin\Debug\cstLng.dll
+E:\ird\UDFCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\UDFCreation\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\UDFCreation\bin\Debug\Newtonsoft.Json.dll
+E:\ird\UDFCreation\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\UDFCreation\obj\x64\Debug\UDFCreation.csprojResolveAssemblyReference.cache
+E:\ird\UDFCreation\obj\x64\Debug\UDFCreation.Form1.resources
+E:\ird\UDFCreation\obj\x64\Debug\UDFCreation.csproj.GenerateResource.Cache
+E:\ird\DeliveryCreation\bin\Debug\UDFCreation.exe.config
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\UDFCreation.csproj.ResolveComReference.cache
+E:\ird\DeliveryCreation\obj\x64\Debug\UDFCreation.exe
+E:\ird\DeliveryCreation\obj\x64\Debug\UDFCreation.pdb

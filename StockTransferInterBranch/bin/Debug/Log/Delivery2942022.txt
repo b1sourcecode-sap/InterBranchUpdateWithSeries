@@ -1,0 +1,1 @@
+Delivery Creation Error is:One of the base documents has already been closed  [DLN1.BaseEntry][line: 46]: For Customer Code : 303824354   :4/29/2022 12:39:18 PM

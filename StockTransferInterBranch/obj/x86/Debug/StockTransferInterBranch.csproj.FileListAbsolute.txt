@@ -1,0 +1,75 @@
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+E:\ird\StockTransferIterBranch\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\StockTransferIterBranch\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\StockTransferIterBranch\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.Form1.resources
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.exe
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.pdb
+E:\ird\StockTransferInterBranch\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\StockTransferInterBranch\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\StockTransferInterBranch\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferIterBranch.Form1.resources
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+E:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe.config
+E:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe
+E:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.pdb
+E:\ird\StockTransferInterBranch\bin\Debug\CRDisplay.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.Shared.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ird\StockTransferInterBranch\bin\Debug\cstLng.dll
+E:\ird\StockTransferInterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ird\StockTransferInterBranch\bin\Debug\FlashControlV71.dll
+E:\ird\StockTransferInterBranch\bin\Debug\Newtonsoft.Json.dll
+E:\ird\StockTransferInterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ird\StockTransferInterBranch\bin\Debug\stdole.dll
+E:\ird\StockTransferInterBranch\bin\Debug\ShockwaveFlashObjects.dll
+E:\ird\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.CopyComplete
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferIterBranch.exe
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferIterBranch.pdb
+E:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.AssemblyReference.cache
+D:\ird\StockTransferInterBranch\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.ResolveComReference.cache
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferIterBranch.Form1.resources
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.GenerateResource.cache
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.CoreCompileInputs.cache
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferIterBranch.exe
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferIterBranch.pdb
+D:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\ird\StockTransferInterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe.config
+D:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.exe
+D:\ird\StockTransferInterBranch\bin\Debug\StockTransferIterBranch.pdb
+D:\ird\StockTransferInterBranch\bin\Debug\CRDisplay.dll
+D:\ird\StockTransferInterBranch\bin\Debug\cstLng.dll
+D:\ird\StockTransferInterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\ird\StockTransferInterBranch\bin\Debug\Newtonsoft.Json.dll
+D:\ird\StockTransferInterBranch\bin\Debug\stdole.dll
+D:\ird\StockTransferInterBranch\bin\Debug\System.Net.Http.Formatting.xml
+D:\ird\StockTransferInterBranch\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\ird\StockTransferInterBranch\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\ird\StockTransferInterBranch\obj\x86\Debug\StockTransferInterBranch.csproj.CopyComplete

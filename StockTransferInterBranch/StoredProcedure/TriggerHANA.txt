@@ -1,0 +1,86 @@
+DROP PROCEDURE TriggerProc;
+CREATE PROCEDURE TriggerProc
+LANGUAGE SQLSCRIPT
+SQL SECURITY INVOKER
+AS
+BEGIN
+
+	DECLARE empty_name CONDITION FOR SQL_ERROR_CODE 10001;
+	SIGNAL empty_name SET MESSAGE_TEXT ='can not delete data';
+
+END;	
+
+
+
+CALL TriggerProc;
+
+
+
+-----------------------------------------
+
+DROP TRIGGER "Trigger_On_OINV";
+CREATE TRIGGER "Trigger_On_OINV" BEFORE DELETE ON "OINV"
+
+BEGIN
+ DECLARE counter INT := 0;
+ DECLARE error INT :=0;
+ DECLARE error_message nvarchar(200);
+
+	
+CALL TriggerProc; 
+
+	
+
+END;
+
+
+--------------------------------------------
+
+DROP TRIGGER "Trigger_On_INV1";
+CREATE TRIGGER "Trigger_On_INV1" BEFORE DELETE ON "INV1"
+
+BEGIN
+ DECLARE counter INT := 0;
+ DECLARE error INT :=0;
+ DECLARE error_message nvarchar(200);
+
+	
+CALL TriggerProc; 
+
+	
+
+END;
+
+----------------------------------
+
+DROP TRIGGER "Trigger_On_INV1_Update";
+CREATE TRIGGER "Trigger_On_INV1_Update" BEFORE UPDATE ON "INV1"
+
+BEGIN
+ DECLARE counter INT := 0;
+ DECLARE error INT :=0;
+ DECLARE error_message nvarchar(200);
+
+	
+CALL TriggerProc; 
+
+	
+
+END;
+
+-----------------------------------------------
+
+DROP TRIGGER "Trigger_On_OINV_Update";
+CREATE TRIGGER "Trigger_On_OINV_Update" BEFORE UPDATE ON "OINV"
+
+BEGIN
+ DECLARE counter INT := 0;
+ DECLARE error INT :=0;
+ DECLARE error_message nvarchar(200);
+
+	
+CALL TriggerProc; 
+
+	
+
+END;

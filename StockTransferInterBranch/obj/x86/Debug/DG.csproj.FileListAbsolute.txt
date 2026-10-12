@@ -1,0 +1,64 @@
+C:\DG\bin\Debug\DG.exe.config
+C:\DG\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\DG\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\DG\obj\x86\Debug\DG.csproj.ResolveComReference.cache
+C:\DG\bin\Debug\DG.exe
+C:\DG\bin\Debug\DG.pdb
+C:\DG\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\DG\bin\Debug\office.dll
+C:\DG\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\DG\bin\Debug\office.xml
+C:\DG\bin\Debug\Interop.SAPbobsCOM.dll
+C:\DG\bin\Debug\Interop.SAPbouiCOM.dll
+C:\DG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DG\obj\x86\Debug\DG.DisplayReport.resources
+C:\DG\obj\x86\Debug\DG.ReportDisplay.resources
+C:\DG\obj\x86\Debug\DG.Form1.resources
+C:\DG\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\DG\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\DG\obj\x86\Debug\DG.exe
+C:\DG\obj\x86\Debug\DG.pdb
+E:\SVN_Projects\WMS\DG\DG\bin\Debug\DG.exe.config
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\DG.csproj.ResolveComReference.cache
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\DG.exe
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\DG.pdb
+E:\SVN_Projects\WMS\DG\DG\bin\Debug\DG.exe
+E:\SVN_Projects\WMS\DG\DG\bin\Debug\DG.pdb
+E:\SVN_Projects\WMS\DG\DG\bin\Debug\Interop.SAPbobsCOM.dll
+E:\SVN_Projects\WMS\DG\DG\bin\Debug\Interop.SAPbouiCOM.dll
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\DG.DisplayReport.resources
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\DG.ReportDisplay.resources
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\DG.Form1.resources
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\ResGen.read.1.tlog
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\SVN_Projects\WMS\DG\DG\obj\x86\Debug\ResGen.write.1.tlog
+E:\Drive E\wms software\DG_Template\bin\Debug\DG.exe.config
+E:\Drive E\wms software\DG_Template\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\Drive E\wms software\DG_Template\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\Drive E\wms software\DG_Template\obj\x86\Debug\DG.csproj.ResolveComReference.cache
+E:\Drive E\wms software\DG_Template\obj\x86\Debug\DG.exe
+E:\Drive E\wms software\DG_Template\obj\x86\Debug\DG.pdb
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\DG.csproj.ResolveComReference.cache
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\office.dll
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\office.xml
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\HarshInernational.DisplayReport.resources
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\HarshInernational.ReportDisplay.resources
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\HarshInternational.exe.config
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\HarshInternational.exe
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\bin\Debug\HarshInternational.pdb
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\HarshInternational.Form1.resources
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\HarshInternational.exe
+C:\Users\puja.WMSSOFT\Desktop\DG_Template\obj\x86\Debug\HarshInternational.pdb

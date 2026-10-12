@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<Application>
+	<forms>
+		<action type="add">
+			<form AutoManaged="0" BorderStyle="0" FormType="B1SOL02" ObjectType="" SupportedModes="15"
+				appformnumber="2000069901" client_height="255" client_width="435" default_button="btChoose"
+				height="300" left="330" pane="0" title="" top="87" type="0" uid="frm_CFL" visible="0"
+				width="443">
+				<datasources>
+					<dbdatasources>
+						<action type="add" />							
+					</dbdatasources>
+					<userdatasources>
+						<action type="add">
+							<datasource uid="SYS_001" type="9" size="50" />
+						</action>
+					</userdatasources>
+				</datasources>
+				<Menus />
+				<items>
+					<action type="add">
+						<item AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" enabled="0" font_size="12"
+							forecolor="-1" from_pane="0" height="19" left="5" linkto="" right_just="0" supp_zeros="0"
+							tab_order="10" text_style="0" to_pane="0" top="231" type="4" uid="btChoose" visible="1" width="65">
+							<AutoManagedAttribute />
+							<specific caption="Choose" />
+						</item>
+						<item AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" enabled="1" font_size="12"
+							forecolor="-1" from_pane="0" height="19" left="75" linkto="" right_just="0" supp_zeros="0"
+							tab_order="20" text_style="0" to_pane="0" top="231" type="4" uid="2" visible="1" width="65">
+							<AutoManagedAttribute />
+							<specific caption="Cancel" />
+						</item>
+						<item AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" enabled="1" font_size="12"
+							forecolor="-1" from_pane="0" height="19" left="145" linkto="" right_just="0" supp_zeros="0"
+							tab_order="50" text_style="0" to_pane="0" top="231" type="4" uid="6" visible="0" width="65">
+							<AutoManagedAttribute />
+							<specific caption="&amp;New" />
+						</item>
+						<item AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" enabled="1" font_size="12"
+							forecolor="-1" from_pane="0" height="14" left="82" linkto="" right_just="0" supp_zeros="0"
+							tab_order="1" text_style="0" to_pane="0" top="25" type="16" uid="4" visible="1" width="171">
+							<AutoManagedAttribute />
+							<specific>
+								<databind alias="1" databound="0" table="SYS_001" />
+							</specific>
+						</item>
+						<item AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" enabled="0" font_size="12"
+							forecolor="-1" from_pane="0" height="14" left="5" linkto="" right_just="0" supp_zeros="0"
+							tab_order="40" text_style="0" to_pane="0" top="5" type="8" uid="7" visible="1" width="234">
+							<AutoManagedAttribute />
+							<specific caption="" />
+						</item>
+						
+						<item AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" enabled="1" font_size="12"
+							forecolor="-1" from_pane="0" height="178" left="5" linkto="" right_just="0" supp_zeros="0"
+							tab_order="70" text_style="0" to_pane="0" top="47" type="127" uid="5" visible="1"
+							width="425">
+							<AutoManagedAttribute />
+							<specific SelectionMode="0" layout="0" titleHeight="20">
+								<columns>
+									<action type="add">
+										<column AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" editable="0" font_size="12"
+											forecolor="-1" right_just="0" text_style="0" title="#" type="16" uid="0" val_off=""
+											val_on="" visible="0" width="0">
+											<databind alias="" databound="0" table="" />
+											<ExtendedObject />
+										</column>
+										<column AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" editable="0" font_size="12"
+											forecolor="-1" right_just="0" text_style="0" title="" type="16" uid="1" val_off="" val_on=""
+											visible="1" width="100">
+											<databind alias="" databound="0" table="" />
+											<ExtendedObject />
+										</column>
+										<column AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" editable="0" font_size="12"
+											forecolor="-1" right_just="0" text_style="0" title="" type="16" uid="2" val_off="" val_on=""
+											visible="1" width="100">
+											<databind alias="" databound="0" table="" />
+											<ExtendedObject />
+										</column>
+										<column AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" editable="0" font_size="12"
+											forecolor="-1" right_just="1" text_style="0" title="" type="16" uid="3" val_off="" val_on=""
+											visible="1" width="100">
+											<databind alias="" databound="0" table="" />
+											<ExtendedObject />
+										</column>
+										<column AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" editable="0" font_size="12"
+											forecolor="-1" right_just="0" text_style="0" title="" type="16" uid="4"
+											val_off="" val_on="" visible="1" width="100">
+											<databind alias="" databound="0" table="" />
+											<ExtendedObject />
+										</column>
+										<column AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" editable="0" font_size="12"
+											forecolor="-1" right_just="0" text_style="0" title="" type="16" uid="5" val_off=""
+											val_on="" visible="1" width="100">
+											<databind alias="" databound="0" table="" />
+											<ExtendedObject />
+										</column>
+										<column AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" editable="0" font_size="12"
+											forecolor="-1" right_just="0" text_style="0" title="" type="16" uid="6" val_off=""
+											val_on="" visible="0" width="100">
+											<databind alias="" databound="0" table="" />
+											<ExtendedObject />
+										</column>
+									</action>
+								</columns>
+							</specific>
+						</item>
+						<item AffectsFormMode="1" backcolor="-1" description="" disp_desc="0" enabled="0" font_size="12"
+							forecolor="-1" from_pane="0" height="14" left="5" linkto="4" right_just="0" supp_zeros="0"
+							tab_order="80" text_style="0" to_pane="0" top="25" type="8" uid="3" visible="1" width="76">
+							<AutoManagedAttribute />
+							<specific caption="Find" />
+						</item>
+					</action>
+				</items>
+				<DataBrowser />
+			</form>
+		</action>
+	</forms>
+</Application>

@@ -1,0 +1,44 @@
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\Laxmi.exe.config
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.csproj.ResolveComReference.cache
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.DisplayReport.resources
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.ReportDisplay.resources
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.Form1.resources
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\bin\Debug\XML Files\Barcode Scanning.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\bin\Debug\XML Files\CFL.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\bin\Debug\XML Files\Menus.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\bin\Debug\XML Files\RemoveMenus.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\Laxmi.exe
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\Laxmi.pdb
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\CRDisplay.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\cstLng.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\x64\Debug\bin\Debug\XML Files\bin\Debug\XML Files\System.Net.Http.Formatting.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.exe
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.pdb
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\CFL.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\Menus.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.pdb
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\CRDisplay.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\cstLng.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dell\Desktop\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\bin\Debug\Laxmi.exe.config
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.exe
+C:\Users\Administrator\Desktop\IRD\IRD_LaxmiGroup\SujalDairy\Sujal_SujalCustomization\obj\x64\Debug\Laxmi.pdb

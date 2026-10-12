@@ -1,0 +1,20 @@
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+E:\ird\DeliveryCreation\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\DeliveryCreation\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\DeliveryCreation\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\DeliveryCreation\obj\x86\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+E:\ird\DeliveryCreation\bin\Debug\CRDisplay.dll
+E:\ird\DeliveryCreation\bin\Debug\cstLng.dll
+E:\ird\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\DeliveryCreation\bin\Debug\Newtonsoft.Json.dll
+E:\ird\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\DeliveryCreation\obj\x86\Debug\DeliveryCreation.Form1.resources
+E:\ird\DeliveryCreation\obj\x86\Debug\DeliveryCreation.csproj.GenerateResource.Cache
+E:\ird\DeliveryCreation\obj\x86\Debug\DeliveryCreation.exe
+E:\ird\DeliveryCreation\obj\x86\Debug\DeliveryCreation.pdb

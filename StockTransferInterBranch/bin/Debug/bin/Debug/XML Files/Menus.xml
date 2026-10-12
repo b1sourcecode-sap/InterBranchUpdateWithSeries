@@ -1,0 +1,10 @@
+<Application>
+	<Menus>
+   <action type="add">
+	   <Menu Checked="0" Enabled="1" FatherUID="43540" String="Inter Branch Transfer Request" Type="1" position="0" UniqueID="IntTFRR" />
+	   <Menu Checked="0" Enabled="1" FatherUID="43540" String="Inter Branch Transfer" Type="1" position="1" UniqueID="IntTFR" />
+	   <Menu Checked="0" Enabled="1" FatherUID="14848" String="Inter Branch Approval" Type="1" position="5" UniqueID="IntApproval" />
+ 
+    </action>
+	</Menus>
+</Application> 

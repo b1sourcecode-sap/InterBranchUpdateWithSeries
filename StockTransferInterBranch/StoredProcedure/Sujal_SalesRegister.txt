@@ -1,0 +1,44 @@
+--CALL SALESREGISTER ('20180506','20180506');
+drop procedure SALESREGISTER;
+CREATE PROCEDURE SALESREGISTER
+( 
+IN FromDt Date,
+IN ToDt Date
+)
+AS
+BEGIN
+select distinct T0."ItemCode",T0."Dscription",T3."InvntryUom" as "UoM"
+,(select sum(T1."OutQty") from OINM T1 where T1."ItemCode" = T0."ItemCode" AND T1."DocDate" = (SELECT :FromDt FROM DUMMY) AND T1."DocDate" <= :ToDt Group by T1."ItemCode") as "1"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,1) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode") as "2"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,2) FROM DUMMY) AND T2."DocDate" <= :ToDt  Group by T0."ItemCode" ) as "3"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,3) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "4"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,4) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "5"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,5) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "6"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,6) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "7"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,7) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "8"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,8) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "9"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,9) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "10"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,10) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "11"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,11) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "12"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,12) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "13"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,13) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "14"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,14) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "15"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,15) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "16"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,16) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "17"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,17) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "18"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,18) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "19"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,19) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "20"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,20) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "21"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,21) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "22"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,22) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "23"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,23) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "24"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,24) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "25"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,25) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "26"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,26) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "27"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,27) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "28"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,28) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "29"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,29) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "30"
+,(select sum(T2."OutQty") from OINM T2 where T2."ItemCode" = T0."ItemCode" AND T2."DocDate" = (select ADD_DAYS(:FromDt,30) FROM DUMMY) AND T2."DocDate" <= :ToDt Group by T0."ItemCode" ) as "31"
+from OINM T0  
+inner join OITM T3 ON T0."ItemCode" = T3."ItemCode" where T0."DocDate" between :FromDt and :ToDt;
+END

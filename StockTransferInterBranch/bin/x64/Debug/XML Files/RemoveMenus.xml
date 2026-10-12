@@ -1,0 +1,35 @@
+<Application>
+	<Menus>
+		<action type="remove">
+			<Menu Checked="0" Enabled="1" FatherUID="11520" Image="" Position="11" String="Fashion Item"
+				Type="2" UniqueID="B1SOL_01">
+				<Menus>
+					<action type="remove">
+						<Menu Checked="0" Enabled="1" FatherUID="B1SOL_01" Position="0" String="Fashion Parameters"
+							Type="1" UniqueID="B1SOL_01_11" />
+						<Menu Checked="0" Enabled="1" FatherUID="B1SOL_01" Position="1" String="Fashion Attribute"
+							Type="1" UniqueID="B1SOL_01_12" />
+            <!--<Menu Checked="0" Enabled="1" FatherUID="B1SOL_01" Position="2" String="HarshInternational Pack Ratios"
+            Type="1" UniqueID="B1SOL_03_11" />-->
+
+          </action>
+				</Menus>
+			</Menu>
+			<Menu Checked="0" Enabled="1" FatherUID="3072" Position="1" String="SKU Creation" Type="1" UniqueID="B1SOL_01_13" />
+      <Menu Checked="0" Enabled="1" FatherUID="3072" Position="2" String="Item Label Printing" Type="1" UniqueID="B1F_01_15" />  <!--Added By AMIT on 04072012-->
+      <!--<Menu Checked="0" Enabled="1" FatherUID="3072" Position="3" String="Fashion Item Net Position Report" Type="1" UniqueID="B1SOL_01_14" />-->
+
+      <!--<Menu Checked="0" Enabled="1" FatherUID="43535" Image="" Position="7" String="Shops" Type="2" UniqueID="B1SOL_23">
+        <Menus>
+          <action type="remove">
+            <Menu Checked="0" Enabled="1" FatherUID="B1SOL_23" Position="0" String="Retail Calendar Maintenance"
+							Type="1" UniqueID="B1SOL_23_01" />
+          </action>
+        </Menus>
+      </Menu>-->
+			<Menu Checked="0" Enabled="1" FatherUID="43525" String="Barcode Scanning" Type="1" position="9" UniqueID="BarCode" />
+      <Menu Checked="0" Enabled="1" FatherUID="43525" String="Customer Aging Report" Type="1" position="12" UniqueID="CustomerAgingRpt" />
+    </action>
+	</Menus>
+	
+</Application>

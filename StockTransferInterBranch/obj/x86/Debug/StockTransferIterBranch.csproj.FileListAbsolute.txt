@@ -1,0 +1,42 @@
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.csproj.AssemblyReference.cache
+E:\ird\StockTransferIterBranch\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\StockTransferIterBranch\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\StockTransferIterBranch\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.csproj.ResolveComReference.cache
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.Form1.resources
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.csproj.GenerateResource.cache
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.csproj.CoreCompileInputs.cache
+E:\ird\StockTransferIterBranch\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\StockTransferIterBranch\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\StockTransferIterBranch\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\StockTransferIterBranch\bin\Debug\StockTransferIterBranch.exe.config
+E:\ird\StockTransferIterBranch\bin\Debug\StockTransferIterBranch.exe
+E:\ird\StockTransferIterBranch\bin\Debug\StockTransferIterBranch.pdb
+E:\ird\StockTransferIterBranch\bin\Debug\CRDisplay.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.Shared.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ird\StockTransferIterBranch\bin\Debug\cstLng.dll
+E:\ird\StockTransferIterBranch\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\StockTransferIterBranch\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ird\StockTransferIterBranch\bin\Debug\FlashControlV71.dll
+E:\ird\StockTransferIterBranch\bin\Debug\Newtonsoft.Json.dll
+E:\ird\StockTransferIterBranch\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ird\StockTransferIterBranch\bin\Debug\stdole.dll
+E:\ird\StockTransferIterBranch\bin\Debug\ShockwaveFlashObjects.dll
+E:\ird\StockTransferIterBranch\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.csproj.CopyComplete
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.exe
+E:\ird\StockTransferIterBranch\obj\x86\Debug\StockTransferIterBranch.pdb
